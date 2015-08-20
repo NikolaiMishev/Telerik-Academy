@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\bin\Debug\Garden.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\bin\Debug\Garden.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\bin\Debug\Garden.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\obj\Debug\Garden.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Garden\obj\Debug\Garden.pdb

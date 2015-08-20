@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\bin\Debug\05.Parse tags.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\bin\Debug\05.Parse tags.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\bin\Debug\05.Parse tags.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\obj\Debug\05.Parse tags.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\obj\Debug\05.Parse tags.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\05.Parse tags\obj\Debug\05.Parse tags.pdb

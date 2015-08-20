@@ -1,0 +1,71 @@
+﻿@font-face {
+    font-family: Helvetica Cond Light;
+    src: url(HelveticaNeueLTCom-LtCn.ttf);
+}
+div {
+    background-color: lightgray;
+    width: 400px;
+    height: 560px;
+    border-radius: 5px;
+}
+h1{
+    margin-left: 10px;
+    font-family: "Times New Roman", Times, serif;;
+
+    font-size: 20px;
+    font-weight: 100;
+    text-decoration: none;
+}
+button{
+
+    background-image: url(button.png);
+    float: right;
+    color:white;
+ 
+
+    border: 2px ridge rgba(138, 0, 0, 0.6);
+    height:25px;
+    margin-bottom:25px;
+    
+}
+section{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border: 1px solid black;
+    background-color: white;
+    padding-bottom: 35px;
+}
+.photo{
+    border: 1px solid grey;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+   
+}
+img{
+    width: 135px;
+	height: 86px;
+	border: 1px solid #9a9997;
+	float: left;
+	margin-right: 15px;
+}
+#Add{
+    margin-right: 10px;
+    width:18%;
+    vertical-align: central;
+}
+#Listen{
+    margin-right:4px;
+    width: 21%;
+}
+button:hover {
+	background-image: url(buttonHover.png);
+}
+p{
+   font-size:14px;
+    margin-right: 5px;
+   
+    
+}

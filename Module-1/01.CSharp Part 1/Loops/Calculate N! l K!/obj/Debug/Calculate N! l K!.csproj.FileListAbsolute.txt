@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate N! l K!\bin\Debug\Calculate N! l K!.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate N! l K!\bin\Debug\Calculate N! l K!.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate N! l K!\bin\Debug\Calculate N! l K!.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate N! l K!\obj\Debug\Calculate N! l K!.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate N! l K!\obj\Debug\Calculate N! l K!.pdb

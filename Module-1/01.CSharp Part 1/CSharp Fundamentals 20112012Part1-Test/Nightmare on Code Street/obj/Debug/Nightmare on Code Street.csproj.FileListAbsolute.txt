@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Nightmare on Code Street\bin\Debug\Nightmare on Code Street.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Nightmare on Code Street\bin\Debug\Nightmare on Code Street.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Nightmare on Code Street\bin\Debug\Nightmare on Code Street.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Nightmare on Code Street\obj\Debug\Nightmare on Code Street.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Nightmare on Code Street\obj\Debug\Nightmare on Code Street.pdb

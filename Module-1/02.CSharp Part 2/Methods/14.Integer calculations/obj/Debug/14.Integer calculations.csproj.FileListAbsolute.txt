@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\14.Integer calculations\bin\Debug\14.Integer calculations.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\14.Integer calculations\bin\Debug\14.Integer calculations.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\14.Integer calculations\bin\Debug\14.Integer calculations.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\14.Integer calculations\obj\Debug\14.Integer calculations.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\14.Integer calculations\obj\Debug\14.Integer calculations.pdb

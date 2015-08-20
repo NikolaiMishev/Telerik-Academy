@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\bin\Debug\_03.Range_Exceptions.exe.config
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\bin\Debug\_03.Range_Exceptions.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\bin\Debug\_03.Range_Exceptions.pdb
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\obj\Debug\03. Range Exceptions.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\obj\Debug\_03.Range_Exceptions.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\03. Range Exceptions\obj\Debug\_03.Range_Exceptions.pdb

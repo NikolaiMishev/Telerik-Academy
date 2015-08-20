@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\bin\Debug\05. 64 Bit array.exe.config
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\bin\Debug\05. 64 Bit array.exe
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\bin\Debug\05. 64 Bit array.pdb
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\obj\Debug\05. 64 Bit array.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\obj\Debug\05. 64 Bit array.exe
+D:\Telerik\CSharp OOP\Common Type System\05. 64 Bit array\obj\Debug\05. 64 Bit array.pdb

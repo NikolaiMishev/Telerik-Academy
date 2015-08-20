@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Float or Double\bin\Debug\Float or Double.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Float or Double\bin\Debug\Float or Double.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Float or Double\bin\Debug\Float or Double.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Float or Double\obj\Debug\Float or Double.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Float or Double\obj\Debug\Float or Double.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\bin\Debug\Eggcelent.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\bin\Debug\Eggcelent.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\bin\Debug\Eggcelent.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\obj\Debug\Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Eggcelent\obj\Debug\Eggcelent.pdb

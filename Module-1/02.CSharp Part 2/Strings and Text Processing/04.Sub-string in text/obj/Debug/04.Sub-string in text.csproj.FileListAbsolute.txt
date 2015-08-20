@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\04.Sub-string in text\bin\Debug\04.Sub-string in text.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\04.Sub-string in text\bin\Debug\04.Sub-string in text.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\04.Sub-string in text\bin\Debug\04.Sub-string in text.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\04.Sub-string in text\obj\Debug\04.Sub-string in text.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\04.Sub-string in text\obj\Debug\04.Sub-string in text.pdb

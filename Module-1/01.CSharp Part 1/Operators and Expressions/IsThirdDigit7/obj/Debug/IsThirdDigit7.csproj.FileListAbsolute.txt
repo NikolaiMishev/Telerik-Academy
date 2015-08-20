@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\IsThirdDigit7\obj\Debug\IsThirdDigit7.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\IsThirdDigit7\obj\Debug\IsThirdDigit7.pdb

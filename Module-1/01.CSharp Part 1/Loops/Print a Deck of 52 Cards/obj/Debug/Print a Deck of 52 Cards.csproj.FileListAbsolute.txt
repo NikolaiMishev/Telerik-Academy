@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Print a Deck of 52 Cards\bin\Debug\Print a Deck of 52 Cards.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Print a Deck of 52 Cards\bin\Debug\Print a Deck of 52 Cards.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Print a Deck of 52 Cards\bin\Debug\Print a Deck of 52 Cards.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Print a Deck of 52 Cards\obj\Debug\Print a Deck of 52 Cards.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Print a Deck of 52 Cards\obj\Debug\Print a Deck of 52 Cards.pdb

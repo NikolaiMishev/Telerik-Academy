@@ -1,0 +1,69 @@
+﻿body, ul, li, nav, header, section,a {
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-size:12px;
+}
+
+#root{
+    width:610px;
+    height:320px;
+    background-color:#1E3741;
+    border:1px solid #295A68;
+    border-radius:5px;
+    margin:5px;
+}
+
+nav ul{
+    list-style-type:none;
+    padding: 6px;
+}
+
+a, li{
+    text-decoration:none;
+    color:#A2A9A2;
+    font-weight: 900;
+}
+
+nav>ul>li{
+    display: inline-block;
+    background-color:#4B5F67;
+    padding:7px;
+    padding-right: 17px;
+}
+
+.active{
+    background-color:#1E3741;
+    padding:7px
+}
+
+.active a{
+    color:#ffffff;
+    font-weight:900;
+}
+
+section ul{
+    width:180px;
+    margin-top:10px;
+}
+
+section ul li{
+    padding:10px 0 10px 6px;
+    float:left;
+    width:230px;
+    font-weight:900;
+}
+
+.activeNews{
+    background-color:#00968C;
+    color:#ffffff;
+    font-weight:900;
+}
+
+
+img{
+    width:340px;
+    height:250px;
+}

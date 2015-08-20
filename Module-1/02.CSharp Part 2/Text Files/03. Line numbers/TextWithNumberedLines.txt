@@ -1,0 +1,33 @@
+Line  1 ://Problem 3. Line numbers
+Line  2 :
+Line  3 ://Write a program that reads a text file and inserts line numbers in front of each of its lines.
+Line  4 ://The result should be written to another text file.
+Line  5 :
+Line  6 :using System;
+Line  7 :using System.IO;
+Line  8 :class LineNumbers
+Line  9 :{
+Line 10 :    static void Main()
+Line 11 :    {
+Line 12 :        StreamReader reader = new StreamReader("..\\..\\03. Line numbers.cs");
+Line 13 :
+Line 14 :        using (reader)
+Line 15 :        {
+Line 16 :            string readerLine = reader.ReadLine();
+Line 17 :
+Line 18 :            StreamWriter newFile = new StreamWriter("..\\..\\TextWithNumberedLines.txt");
+Line 19 :
+Line 20 :            using (newFile)
+Line 21 :            {
+Line 22 :                int lineCounter = 1;
+Line 23 :                while (readerLine != null)
+Line 24 :                {
+Line 25 :                    newFile.WriteLine("Line {0,2} :{1}", lineCounter, readerLine);
+Line 26 :                    lineCounter++;
+Line 27 :                    readerLine = reader.ReadLine();
+Line 28 :                }
+Line 29 :            }
+Line 30 :        }
+Line 31 :    }
+Line 32 :}
+Line 33 :

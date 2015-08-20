@@ -1,0 +1,9 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\bin\Debug\Problem4.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\bin\Debug\Problem4.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\bin\Debug\Problem4.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\obj\Debug\Problem4.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\obj\Debug\Problem4.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem4\obj\Debug\Problem4 Cube Description.csprojResolveAssemblyReference.cache
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem4\bin\Debug\Problem4.exe.config
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem4\obj\Debug\Problem4.exe
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem4\obj\Debug\Problem4.pdb

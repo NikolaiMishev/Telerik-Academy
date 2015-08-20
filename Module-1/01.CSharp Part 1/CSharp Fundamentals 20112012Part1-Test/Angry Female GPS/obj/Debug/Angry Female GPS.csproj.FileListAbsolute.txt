@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\bin\Debug\Angry Female GPS.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\bin\Debug\Angry Female GPS.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\bin\Debug\Angry Female GPS.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\obj\Debug\Angry Female GPS.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\obj\Debug\Angry Female GPS.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Angry Female GPS\obj\Debug\Angry Female GPS.pdb

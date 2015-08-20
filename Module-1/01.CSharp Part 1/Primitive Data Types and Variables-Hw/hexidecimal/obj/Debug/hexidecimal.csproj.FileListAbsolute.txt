@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\hexidecimal\bin\Debug\hexidecimal.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\hexidecimal\bin\Debug\hexidecimal.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\hexidecimal\bin\Debug\hexidecimal.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\hexidecimal\obj\Debug\hexidecimal.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\hexidecimal\obj\Debug\hexidecimal.pdb

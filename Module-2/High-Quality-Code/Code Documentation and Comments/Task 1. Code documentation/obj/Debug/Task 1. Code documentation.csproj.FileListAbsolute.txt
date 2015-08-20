@@ -1,0 +1,2 @@
+D:\Telerik\Module-2\High-Quality-Code\Naming Identifiers Homework\Code Documentation and Comments\Task 1. Code documentation\bin\Debug\Task_1.Code_documentation.exe.config
+D:\Telerik\Module-2\High-Quality-Code\Naming Identifiers Homework\Code Documentation and Comments\Task 1. Code documentation\obj\Debug\Task 1. Code documentation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\bin\Debug\04.Triangle surface.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\bin\Debug\04.Triangle surface.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\bin\Debug\04.Triangle surface.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\obj\Debug\04.Triangle surface.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\obj\Debug\04.Triangle surface.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\04.Triangle surface\obj\Debug\04.Triangle surface.pdb

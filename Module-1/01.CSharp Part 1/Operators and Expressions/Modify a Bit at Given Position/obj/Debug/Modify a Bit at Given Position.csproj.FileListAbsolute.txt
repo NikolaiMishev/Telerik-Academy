@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\bin\Debug\Modify a Bit at Given Position.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\bin\Debug\Modify a Bit at Given Position.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\bin\Debug\Modify a Bit at Given Position.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\obj\Debug\Modify a Bit at Given Position.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\obj\Debug\Modify a Bit at Given Position.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Modify a Bit at Given Position\obj\Debug\Modify a Bit at Given Position.csprojResolveAssemblyReference.cache

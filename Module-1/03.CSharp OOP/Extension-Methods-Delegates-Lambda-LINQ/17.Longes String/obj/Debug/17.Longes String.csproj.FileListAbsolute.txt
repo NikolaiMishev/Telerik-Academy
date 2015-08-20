@@ -1,0 +1,5 @@
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\17.Longes String\bin\Debug\17.Longes String.exe.config
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\17.Longes String\bin\Debug\17.Longes String.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\17.Longes String\bin\Debug\17.Longes String.pdb
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\17.Longes String\obj\Debug\17.Longes String.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\17.Longes String\obj\Debug\17.Longes String.pdb

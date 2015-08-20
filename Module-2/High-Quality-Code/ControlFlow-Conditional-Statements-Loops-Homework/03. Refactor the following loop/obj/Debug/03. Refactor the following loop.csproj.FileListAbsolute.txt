@@ -1,0 +1,5 @@
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\03. Refactor the following loop\bin\Debug\_03.Refactor_the_following_loop.exe.config
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\03. Refactor the following loop\bin\Debug\_03.Refactor_the_following_loop.exe
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\03. Refactor the following loop\bin\Debug\_03.Refactor_the_following_loop.pdb
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\03. Refactor the following loop\obj\Debug\_03.Refactor_the_following_loop.exe
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\03. Refactor the following loop\obj\Debug\_03.Refactor_the_following_loop.pdb

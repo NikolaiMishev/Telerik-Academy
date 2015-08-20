@@ -1,0 +1,6 @@
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\bin\01.HTML Tables.dll.config
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\bin\01.HTML Tables.dll
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\bin\01.HTML Tables.pdb
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\obj\Debug\01.HTML Tables.csprojResolveAssemblyReference.cache
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\obj\Debug\01.HTML Tables.dll
+D:\Telerik\HTML\HTML Tables\01.HTML Tables\obj\Debug\01.HTML Tables.pdb

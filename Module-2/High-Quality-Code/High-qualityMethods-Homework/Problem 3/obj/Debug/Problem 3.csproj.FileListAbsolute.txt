@@ -1,0 +1,12 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.pdb
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.exe.config
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.exe
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.pdb
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.exe
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\bin\Debug\Problem 3.pdb
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache

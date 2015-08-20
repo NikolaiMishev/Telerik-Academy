@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Circle Perimeter and Area\obj\Debug\Circle Perimeter and Area.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Circle Perimeter and Area\obj\Debug\Circle Perimeter and Area.pdb

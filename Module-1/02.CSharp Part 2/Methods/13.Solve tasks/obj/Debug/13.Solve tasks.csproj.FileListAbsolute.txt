@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\13.Solve tasks\bin\Debug\13.Solve tasks.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\13.Solve tasks\bin\Debug\13.Solve tasks.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\13.Solve tasks\bin\Debug\13.Solve tasks.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\13.Solve tasks\obj\Debug\13.Solve tasks.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\13.Solve tasks\obj\Debug\13.Solve tasks.pdb

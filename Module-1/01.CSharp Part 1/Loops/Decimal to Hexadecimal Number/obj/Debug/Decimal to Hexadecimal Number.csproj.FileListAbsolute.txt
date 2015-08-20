@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\bin\Debug\Decimal to Hexadecimal Number.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\bin\Debug\Decimal to Hexadecimal Number.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\bin\Debug\Decimal to Hexadecimal Number.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\obj\Debug\Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\obj\Debug\Decimal to Hexadecimal Number.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Decimal to Hexadecimal Number\obj\Debug\Decimal to Hexadecimal Number.pdb

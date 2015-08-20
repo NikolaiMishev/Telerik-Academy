@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\bin\Debug\Trailing Zeroes in N!.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\bin\Debug\Trailing Zeroes in N!.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\bin\Debug\Trailing Zeroes in N!.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\obj\Debug\Trailing Zeroes in N!.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\obj\Debug\Trailing Zeroes in N!.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Loops\Trailing Zeroes in N!\obj\Debug\Trailing Zeroes in N!.csprojResolveAssemblyReference.cache

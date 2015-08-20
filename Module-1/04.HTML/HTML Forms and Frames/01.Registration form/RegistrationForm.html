@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration form</title>
+    <style>
+        table{
+             margin-left: 3%;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table border="1">
+            <tfoot bgcolor="skyblue">
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" name="submit" value="Submit" />
+                        <input type="reset" name="reset" value="Clean This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <th id="fname">Last Name</th>
+                    <td>
+                        <input type="text" size="30" name="fname" required />
+                    </td>
+                </tr>
+                <tr>
+                    <th id="fname">First Name</th>
+                    <td>
+                        <input type="text" size="30" name="fname" required />
+                    </td>
+                </tr>
+                <tr>
+                    <th id="address">Address</th>
+                    <td><textarea cols="30" rows="5"></textarea></td>
+                </tr>
+                <tr>
+                    <th id="city">City</th>
+                    <td>
+                        <input type="text" size="15" />
+                        State
+                        <input type="text" size="2" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Zip/Postal Code</th>
+                    <td><input type="text" size="5" id="as"/></td>
+                </tr>
+                <tr>
+                    <th>Country</th>
+                    <td>
+                        <select>
+                            <option>Albaniq</option>
+                            <option>Afghanistan</option>
+                            <option>Albania</option>
+                            <option>Algeria</option>
+                            <option>Andorra</option>
+                            <option>Angola</option>
+                            <option>Antigua and Barbuda</option>
+                            <option>Argentina</option>
+                            <option>Armenia</option>
+                            <option>Aruba</option>
+                            <option>Australia</option>
+                            <option>Austria</option>
+                            <option>Azerbaijan</option>
+                            <option>Bahamas</option>
+                            <option>Bahrain</option>
+                            <option>Bangladesh</option>
+                            <option>Barbados</option>
+                            <option>Belarus</option>
+                            <option>Belgium</option>
+                            <option>Belize</option>
+                            <option>Benin</option>
+                            <option>Bhutan</option>
+                            <option>Bolivia</option>
+                            <option>Bosnia and Herzegovina</option>
+                            <option>Botswana</option>
+                            <option>Brazil</option>
+                            <option>Brunei</option>
+                            <option selected>Bulgaria</option>
+                            <option>Burkina Faso</option>
+                            <option>Burma</option>
+                            <option>Burundi</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        Phone(contry code, <br />
+                        area code, number
+                        )
+                    </th>
+                    <td>
+                        (+ <input type="text" size="1" />) <input type="text" size="2" />
+                        <input type="text" size="11" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td>
+                        <input type="text" size="30" required />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Birth Date</th>
+                    <td>
+                        <input type="text" value="дд . мм . гггг г." />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Gender</th>
+                    <td>
+                        <select>
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Starting date</th>
+                    <td>
+                        <input type="radio" name="sdate" id="spring" />
+                        <label for="spring">Spring 2015</label>
+                        <input type="radio" name="sdate" id="summer" />
+                        <label for="summer">Summer 2015</label>
+                    </td>
+                </tr>
+                <tr>
+                    <th id="question/comment">Comments/Questions</th>
+                    <td><textarea cols="30" rows="5"></textarea></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

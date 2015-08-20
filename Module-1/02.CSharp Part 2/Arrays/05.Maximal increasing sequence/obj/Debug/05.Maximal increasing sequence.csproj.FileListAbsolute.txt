@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\05.Maximal increasing sequence\obj\Debug\05.Maximal increasing sequence.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\05.Maximal increasing sequence\obj\Debug\05.Maximal increasing sequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\big integer reminder\bin\Debug\big integer reminder.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\big integer reminder\bin\Debug\big integer reminder.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\big integer reminder\bin\Debug\big integer reminder.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\big integer reminder\obj\Debug\big integer reminder.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\big integer reminder\obj\Debug\big integer reminder.pdb

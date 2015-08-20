@@ -1,0 +1,42 @@
+﻿table {
+	font-family: calibri;
+	font-size: 15px;
+	color: #bbbbbb;
+	background-color: #595959;
+	font-weight: normal;
+}
+.weee{
+    width:170px;
+}
+th {
+    text-align: left;
+    font-weight: normal;
+}
+.redtxt{
+    color: red;
+}
+.orangetxt{
+    color: orange;
+}
+.header{
+    
+    color: #bbbbbb;
+}
+td {
+    border-collapse: collapse;
+	font-weight: normal;
+    font-size: 70%;
+    text-align: left;
+    font-style: italic;
+    color: lightyellow;
+    padding: 0.5em;
+	vertical-align: top;
+}
+span{
+    color:lightgreen;
+    font-size:150%;
+}
+div{
+    font-style: normal;
+    color: #DCCF88;
+}

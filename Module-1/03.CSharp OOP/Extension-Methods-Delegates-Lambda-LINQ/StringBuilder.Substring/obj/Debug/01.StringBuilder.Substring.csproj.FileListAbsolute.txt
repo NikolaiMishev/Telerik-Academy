@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\bin\Debug\StringBuilder.Substring.exe.config
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\obj\Debug\StringBuilder.Substring.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\obj\Debug\StringBuilder.Substring.pdb
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\bin\Debug\StringBuilder.Substring.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\bin\Debug\StringBuilder.Substring.pdb
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.csprojResolveAssemblyReference.cache

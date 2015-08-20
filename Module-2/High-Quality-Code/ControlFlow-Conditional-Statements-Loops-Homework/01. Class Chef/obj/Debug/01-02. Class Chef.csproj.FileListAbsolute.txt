@@ -1,0 +1,5 @@
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\01. Class Chef\bin\Debug\_01.Class_Chef.exe.config
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\01. Class Chef\bin\Debug\_01.Class_Chef.exe
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\01. Class Chef\bin\Debug\_01.Class_Chef.pdb
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\01. Class Chef\obj\Debug\_01.Class_Chef.exe
+D:\Telerik\Module-2\High-Quality-Code\ControlFlow-Conditional-Statements-Loops-Homework\01. Class Chef\obj\Debug\_01.Class_Chef.pdb

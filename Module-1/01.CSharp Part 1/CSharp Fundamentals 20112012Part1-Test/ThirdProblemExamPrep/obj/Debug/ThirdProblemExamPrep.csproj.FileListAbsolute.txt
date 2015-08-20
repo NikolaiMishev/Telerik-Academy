@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\bin\Debug\ThirdProblemExamPrep.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\bin\Debug\ThirdProblemExamPrep.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\bin\Debug\ThirdProblemExamPrep.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\obj\Debug\ThirdProblemExamPrep.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\obj\Debug\ThirdProblemExamPrep.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\ThirdProblemExamPrep\obj\Debug\ThirdProblemExamPrep.pdb

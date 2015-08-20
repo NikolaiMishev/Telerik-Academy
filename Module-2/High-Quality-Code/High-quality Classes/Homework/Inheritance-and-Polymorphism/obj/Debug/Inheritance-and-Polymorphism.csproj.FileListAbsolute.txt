@@ -1,0 +1,5 @@
+D:\Telerik\Module-2\High-Quality-Code\High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\Telerik\Module-2\High-Quality-Code\High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\Telerik\Module-2\High-Quality-Code\High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+D:\Telerik\Module-2\High-Quality-Code\High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+D:\Telerik\Module-2\High-Quality-Code\High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

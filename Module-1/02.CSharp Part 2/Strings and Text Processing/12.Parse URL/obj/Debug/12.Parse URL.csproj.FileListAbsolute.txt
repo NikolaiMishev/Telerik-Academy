@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\12.Parse URL\bin\Debug\12.Parse URL.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\12.Parse URL\bin\Debug\12.Parse URL.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\12.Parse URL\bin\Debug\12.Parse URL.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\12.Parse URL\obj\Debug\12.Parse URL.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\12.Parse URL\obj\Debug\12.Parse URL.pdb

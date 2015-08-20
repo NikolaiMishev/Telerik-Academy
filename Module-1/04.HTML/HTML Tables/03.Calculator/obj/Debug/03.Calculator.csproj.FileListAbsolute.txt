@@ -1,0 +1,6 @@
+D:\Telerik\HTML\HTML Tables\03.Calculator\bin\03.Calculator.dll.config
+D:\Telerik\HTML\HTML Tables\03.Calculator\bin\03.Calculator.dll
+D:\Telerik\HTML\HTML Tables\03.Calculator\bin\03.Calculator.pdb
+D:\Telerik\HTML\HTML Tables\03.Calculator\obj\Debug\03.Calculator.dll
+D:\Telerik\HTML\HTML Tables\03.Calculator\obj\Debug\03.Calculator.pdb
+D:\Telerik\HTML\HTML Tables\03.Calculator\obj\Debug\03.Calculator.csprojResolveAssemblyReference.cache

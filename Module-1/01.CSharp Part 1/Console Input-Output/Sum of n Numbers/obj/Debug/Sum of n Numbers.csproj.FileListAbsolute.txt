@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Sum of n Numbers\bin\Debug\Sum of n Numbers.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Sum of n Numbers\bin\Debug\Sum of n Numbers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Sum of n Numbers\bin\Debug\Sum of n Numbers.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Sum of n Numbers\obj\Debug\Sum of n Numbers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Sum of n Numbers\obj\Debug\Sum of n Numbers.pdb

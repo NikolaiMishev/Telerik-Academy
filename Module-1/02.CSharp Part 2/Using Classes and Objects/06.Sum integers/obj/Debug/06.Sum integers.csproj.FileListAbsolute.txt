@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\bin\Debug\06.Sum integers.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\bin\Debug\06.Sum integers.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\bin\Debug\06.Sum integers.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\obj\Debug\06.Sum integers.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\obj\Debug\06.Sum integers.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\06.Sum integers\obj\Debug\06.Sum integers.csprojResolveAssemblyReference.cache

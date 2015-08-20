@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Quadratic Equation\bin\Debug\Quadratic Equation.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Sum of 3 Numbers\Quadratic Equation\obj\Debug\Quadratic Equation.pdb

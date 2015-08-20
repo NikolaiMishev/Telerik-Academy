@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Unicode Character\bin\Debug\Unicode Character.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Unicode Character\bin\Debug\Unicode Character.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Unicode Character\bin\Debug\Unicode Character.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Unicode Character\obj\Debug\Unicode Character.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Unicode Character\obj\Debug\Unicode Character.pdb

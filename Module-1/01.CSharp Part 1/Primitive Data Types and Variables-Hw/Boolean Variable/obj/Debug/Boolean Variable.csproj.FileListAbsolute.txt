@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Boolean Variable\bin\Debug\Boolean Variable.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Boolean Variable\bin\Debug\Boolean Variable.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Boolean Variable\obj\Debug\Boolean Variable.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Boolean Variable\obj\Debug\Boolean Variable.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\bin\Debug\_01.Quality_Methods.exe.config
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\bin\Debug\_01.Quality_Methods.exe
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\bin\Debug\_01.Quality_Methods.pdb
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\obj\Debug\01. Quality Methods.csprojResolveAssemblyReference.cache
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\obj\Debug\_01.Quality_Methods.exe
+D:\Telerik\Module-2\High-Quality-Code\High-qualityMethods-Homework\01. Quality Methods\obj\Debug\_01.Quality_Methods.pdb

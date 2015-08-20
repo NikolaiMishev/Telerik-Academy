@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\bin\Debug\15.Replace tags.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\bin\Debug\15.Replace tags.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\bin\Debug\15.Replace tags.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\obj\Debug\15.Replace tags.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\obj\Debug\15.Replace tags.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\15.Replace tags\obj\Debug\15.Replace tags.pdb

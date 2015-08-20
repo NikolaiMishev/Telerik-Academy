@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\08.Extract sentences\bin\Debug\08.Extract sentences.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\08.Extract sentences\bin\Debug\08.Extract sentences.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\08.Extract sentences\bin\Debug\08.Extract sentences.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\08.Extract sentences\obj\Debug\08.Extract sentences.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\08.Extract sentences\obj\Debug\08.Extract sentences.pdb

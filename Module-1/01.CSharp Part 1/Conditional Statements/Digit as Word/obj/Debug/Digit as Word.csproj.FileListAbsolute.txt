@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Digit as Word\obj\Debug\Digit as Word.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Digit as Word\obj\Debug\Digit as Word.pdb

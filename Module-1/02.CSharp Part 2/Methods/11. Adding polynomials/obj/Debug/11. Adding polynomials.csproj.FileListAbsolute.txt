@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\obj\Debug\11. Adding polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.pdb

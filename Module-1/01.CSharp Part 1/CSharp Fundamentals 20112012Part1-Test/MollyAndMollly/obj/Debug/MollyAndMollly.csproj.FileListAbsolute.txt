@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\bin\Debug\MollyAndMollly.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\bin\Debug\MollyAndMollly.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\bin\Debug\MollyAndMollly.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\obj\Debug\MollyAndMollly.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\obj\Debug\MollyAndMollly.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\MollyAndMollly\obj\Debug\MollyAndMollly.csprojResolveAssemblyReference.cache

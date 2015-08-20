@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\bin\Debug\Min, Max, Sum and Average of N.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\bin\Debug\Min, Max, Sum and Average of N.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\bin\Debug\Min, Max, Sum and Average of N.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\obj\Debug\Min, Max, Sum and Average of N.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\obj\Debug\Min, Max, Sum and Average of N.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Min, Max, Sum and Average of N\obj\Debug\Min, Max, Sum and Average of N.csprojResolveAssemblyReference.cache

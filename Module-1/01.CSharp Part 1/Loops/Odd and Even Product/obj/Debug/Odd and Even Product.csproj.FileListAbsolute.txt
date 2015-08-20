@@ -1,0 +1,9 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 1\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 1\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 1\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.pdb

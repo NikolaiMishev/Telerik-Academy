@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\bin\Debug\_02.Bank_accounts.exe.config
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\obj\Debug\02. Bank accounts.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\bin\Debug\_02.Bank_accounts.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\bin\Debug\_02.Bank_accounts.pdb
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\obj\Debug\_02.Bank_accounts.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 2\02. Bank accounts\obj\Debug\_02.Bank_accounts.pdb

@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\obj\Debug\Odd or Even Integers.csprojResolveAssemblyReference.cache
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\obj\Debug\Odd or Even Integers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Odd or Even Integers\obj\Debug\Odd or Even Integers.pdb

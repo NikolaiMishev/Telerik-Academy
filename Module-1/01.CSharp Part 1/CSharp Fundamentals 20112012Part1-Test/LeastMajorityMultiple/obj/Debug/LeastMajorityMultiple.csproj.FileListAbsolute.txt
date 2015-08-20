@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

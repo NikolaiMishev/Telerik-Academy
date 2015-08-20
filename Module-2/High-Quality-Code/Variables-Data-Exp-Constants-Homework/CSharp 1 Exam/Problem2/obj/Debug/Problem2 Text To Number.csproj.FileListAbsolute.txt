@@ -1,0 +1,10 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem2\bin\Debug\Problem2.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem2\bin\Debug\Problem2.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem2\bin\Debug\Problem2.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem2\obj\Debug\Problem2.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp 1 Exam\Problem2\obj\Debug\Problem2.pdb
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem2\bin\Debug\Problem2.exe.config
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem2\obj\Debug\Problem2.exe
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem2\obj\Debug\Problem2.pdb
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem2\bin\Debug\Problem2.exe
+D:\Telerik\Module-1\CSharp Part 1\CSharp 1 Exam\Problem2\bin\Debug\Problem2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\bin\Debug\18.Extract e-mails.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\bin\Debug\18.Extract e-mails.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\bin\Debug\18.Extract e-mails.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\obj\Debug\18.Extract e-mails.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\obj\Debug\18.Extract e-mails.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\18.Extract e-mails\obj\Debug\18.Extract e-mails.pdb

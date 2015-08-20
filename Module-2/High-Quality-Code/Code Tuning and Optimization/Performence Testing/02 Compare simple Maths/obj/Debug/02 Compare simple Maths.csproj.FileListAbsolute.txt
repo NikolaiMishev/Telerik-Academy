@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.exe.config
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.exe
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.pdb
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.exe
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.pdb

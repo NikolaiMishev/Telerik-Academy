@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Homework1\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Homework1\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Homework1\PrintDateAndTime\bin\Debug\PrintDateAndTime.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Homework1\PrintDateAndTime\obj\Debug\PrintDateAndTime.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Homework1\PrintDateAndTime\obj\Debug\PrintDateAndTime.pdb

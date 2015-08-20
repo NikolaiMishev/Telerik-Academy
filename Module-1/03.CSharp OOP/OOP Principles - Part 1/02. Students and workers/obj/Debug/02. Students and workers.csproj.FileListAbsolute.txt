@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\bin\Debug\_02.Students_and_workers.exe.config
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\bin\Debug\_02.Students_and_workers.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\bin\Debug\_02.Students_and_workers.pdb
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\obj\Debug\02. Students and workers.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\obj\Debug\_02.Students_and_workers.exe
+D:\Telerik\CSharp OOP\OOP Principles - Part 1\02. Students and workers\obj\Debug\_02.Students_and_workers.pdb

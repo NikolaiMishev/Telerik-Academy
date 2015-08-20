@@ -1,0 +1,6 @@
+D:\Telerik\HTML\Semantic HTML\02.Student System\bin\02.Student System.dll.config
+D:\Telerik\HTML\Semantic HTML\02.Student System\bin\02.Student System.dll
+D:\Telerik\HTML\Semantic HTML\02.Student System\bin\02.Student System.pdb
+D:\Telerik\HTML\Semantic HTML\02.Student System\obj\Debug\02.Student System.dll
+D:\Telerik\HTML\Semantic HTML\02.Student System\obj\Debug\02.Student System.pdb
+D:\Telerik\HTML\Semantic HTML\02.Student System\obj\Debug\02.Student System.csprojResolveAssemblyReference.cache

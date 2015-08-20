@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\11.Binary search\bin\Debug\11.Binary search.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\11.Binary search\bin\Debug\11.Binary search.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\11.Binary search\bin\Debug\11.Binary search.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\11.Binary search\obj\Debug\11.Binary search.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\11.Binary search\obj\Debug\11.Binary search.pdb

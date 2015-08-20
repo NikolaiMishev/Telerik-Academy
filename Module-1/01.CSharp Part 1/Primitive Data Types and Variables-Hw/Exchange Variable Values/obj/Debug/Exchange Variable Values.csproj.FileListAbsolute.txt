@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Exchange Variable Values\bin\Debug\Exchange Variable Values.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Exchange Variable Values\obj\Debug\Exchange Variable Values.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Exchange Variable Values\obj\Debug\Exchange Variable Values.pdb

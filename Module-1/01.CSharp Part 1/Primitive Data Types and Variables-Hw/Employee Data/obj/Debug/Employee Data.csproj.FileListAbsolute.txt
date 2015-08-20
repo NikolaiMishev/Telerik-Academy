@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\bin\Debug\Employee Data.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\bin\Debug\Employee Data.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\bin\Debug\Employee Data.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\obj\Debug\Employee Data.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\obj\Debug\Employee Data.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache

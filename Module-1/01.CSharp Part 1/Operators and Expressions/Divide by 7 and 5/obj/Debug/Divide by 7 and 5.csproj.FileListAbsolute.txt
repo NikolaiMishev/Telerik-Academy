@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Operators and Expressions\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb

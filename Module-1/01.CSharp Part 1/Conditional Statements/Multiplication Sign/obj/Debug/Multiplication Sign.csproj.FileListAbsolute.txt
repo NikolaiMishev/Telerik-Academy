@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.pdb

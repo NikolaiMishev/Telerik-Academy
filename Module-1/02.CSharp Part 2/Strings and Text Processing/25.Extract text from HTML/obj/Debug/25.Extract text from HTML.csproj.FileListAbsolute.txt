@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\bin\Debug\25.Extract text from HTML.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\bin\Debug\25.Extract text from HTML.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\bin\Debug\25.Extract text from HTML.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\obj\Debug\25.Extract text from HTML.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\obj\Debug\25.Extract text from HTML.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\25.Extract text from HTML\obj\Debug\25.Extract text from HTML.pdb

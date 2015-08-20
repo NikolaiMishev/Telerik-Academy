@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.exe.config
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.pdb
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\obj\Debug\06. Divisible by 7 and 3.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\obj\Debug\_06.Divisible_by_7_and_3.exe
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\06. Divisible by 7 and 3\obj\Debug\_06.Divisible_by_7_and_3.pdb

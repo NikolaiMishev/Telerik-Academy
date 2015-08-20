@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Matrix of Numbers\bin\Debug\Matrix of Numbers.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Matrix of Numbers\bin\Debug\Matrix of Numbers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Matrix of Numbers\bin\Debug\Matrix of Numbers.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Matrix of Numbers\obj\Debug\Matrix of Numbers.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Matrix of Numbers\obj\Debug\Matrix of Numbers.pdb

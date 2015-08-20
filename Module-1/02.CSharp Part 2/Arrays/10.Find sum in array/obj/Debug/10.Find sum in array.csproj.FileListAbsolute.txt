@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\obj\Debug\10.Find sum in array.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\obj\Debug\10.Find sum in array.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\10.Find sum in array\obj\Debug\10.Find sum in array.csprojResolveAssemblyReference.cache

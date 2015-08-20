@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.exe.config
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.exe
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.pdb
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\obj\Debug\03 Compare advanced Maths.exe
+C:\Users\Nikolai\Downloads\High-Quality-Code-master\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\obj\Debug\03 Compare advanced Maths.pdb

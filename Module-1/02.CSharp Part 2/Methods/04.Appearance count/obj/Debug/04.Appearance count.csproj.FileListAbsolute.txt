@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\bin\Debug\04.Appearance count.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\bin\Debug\04.Appearance count.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\bin\Debug\04.Appearance count.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\obj\Debug\04.Appearance count.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\obj\Debug\04.Appearance count.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\04.Appearance count\obj\Debug\04.Appearance count.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\obj\Debug\02. Enter numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.pdb

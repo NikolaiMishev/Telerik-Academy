@@ -1,0 +1,177 @@
+﻿body, ul, li,  h1, h3, h4, p, nav, article, header, footer, aside, form, input, div, a{
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color:#F1F1F1;
+    font-size:12px;
+    width:1024px;
+    margin:5px;
+}
+
+ul{
+    list-style-type:none;
+    margin-bottom:10px;
+}
+
+#root{
+    border:1px solid #888888;
+    position:absolute;
+    padding:1px;
+}
+
+a{
+    text-decoration:none;
+    color:#000000;
+}
+
+nav, section, aside{
+    float:left;
+}
+
+nav, aside{
+    width:140px;
+}
+
+.home{
+    text-transform:uppercase;
+    font-size:12px;
+    margin-bottom:10px;
+    margin-top:13px;
+}
+
+.home:before {
+    content: url('img/home.png');
+    margin-right:5px;
+}
+
+ul>li:first-of-type{
+    color:#880000;
+    font-weight:900;
+
+}
+
+section{
+    width:500px;
+    border:1px solid #888888;
+    background-color:#ffffff;
+    padding:15px 5px;
+}
+
+.pages-left,
+.pages-right{
+    display:inline-block;
+    border:1px solid black;
+    width: 97px;
+    height: 19px;
+    margin-top:15px;
+    text-align: center;
+}
+
+.pages-left{
+    text-align:left;
+}
+.pages-left>img{
+    vertical-align:middle;
+    margin-right:15px;
+}
+
+.pages-right{
+    text-align:right;
+}
+
+.pages-right>img{
+    vertical-align:middle;
+    margin-left:25px;
+}
+
+article{
+    margin-bottom:15px;
+
+}
+article:first-of-type{
+    border-top:2px solid #888888;
+    margin-top:7px;
+    padding-top: 5px;
+    margin-bottom: 12px;
+}
+
+article img{
+    float:left;
+    margin-right: 15px;
+    margin-bottom:20px;
+}
+
+.bold{
+    font-weight:900;
+}
+.bold>p:first-of-type{
+    padding-bottom:0;
+}
+
+article p{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+
+.clearfix{
+    content:"";
+    clear:both;
+}
+
+article a{
+    text-decoration:underline;
+    color:#880000;
+    padding-top:10px;
+}
+
+article h4{
+    background-color:#808080;
+    color:#ffffff;
+    padding-left:3px;
+}
+
+footer{
+    border-bottom:1px solid #888888;
+    border-top:1px solid #888888;
+    padding-bottom: 10px;
+}
+
+aside{
+    background-color:#ffffff;
+}
+
+aside h4{
+    background-color:#808080;
+    color:#ffffff;
+    padding-left:3px;
+    text-transform:uppercase;
+    text-align:center;
+}
+
+aside>div{
+    border:1px solid #888888;
+    margin-left:2px;
+    text-align:center;
+    padding:2px 0;
+}
+
+aside a{
+    color:#880000;
+    text-decoration:underline;
+}
+
+aside input[type="text"]{
+    width: 90px;
+}
+
+aside input[type="submit"]{
+    border-radius:3px;
+    border:1px solid black;
+    height:18px;
+}
+aside form{
+    margin-top:10px;
+}

@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Numeral Systems\06.One system to any other\bin\Debug\06.One system to any other.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Numeral Systems\06.One system to any other\bin\Debug\06.One system to any other.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Numeral Systems\06.One system to any other\bin\Debug\06.One system to any other.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Numeral Systems\06.One system to any other\obj\Debug\06.One system to any other.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Numeral Systems\06.One system to any other\obj\Debug\06.One system to any other.pdb

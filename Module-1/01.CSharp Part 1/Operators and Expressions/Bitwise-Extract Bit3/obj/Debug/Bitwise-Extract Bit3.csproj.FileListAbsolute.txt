@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Bitwise-Extract Bit3\bin\Debug\Bitwise-Extract Bit3.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Bitwise-Extract Bit3\bin\Debug\Bitwise-Extract Bit3.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Bitwise-Extract Bit3\bin\Debug\Bitwise-Extract Bit3.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Bitwise-Extract Bit3\obj\Debug\Bitwise-Extract Bit3.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Operators and Expressions\Bitwise-Extract Bit3\obj\Debug\Bitwise-Extract Bit3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\SecondProblemExamPrep\bin\Debug\SecondProblemExamPrep.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\SecondProblemExamPrep\bin\Debug\SecondProblemExamPrep.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\SecondProblemExamPrep\bin\Debug\SecondProblemExamPrep.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\SecondProblemExamPrep\obj\Debug\SecondProblemExamPrep.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\SecondProblemExamPrep\obj\Debug\SecondProblemExamPrep.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\CSharp2Exam\Problem 1\bin\Debug\Problem 1.exe.config
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\bin\Debug\Problem 1.exe.config
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\bin\Debug\Problem 1.exe
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\bin\Debug\Problem 1.pdb
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\obj\Debug\Problem 1.exe
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\obj\Debug\Problem 1.pdb
+D:\Telerik\Module-1\CSharp Part 2\CSharp2Exam\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+D:\Telerik\High-Quality-Code\HomeWork-Formatting\Events\bin\Debug\Events.exe.config
+D:\Telerik\High-Quality-Code\Formatting\HomeWork-Formatting\Events\bin\Debug\Events.exe.config
+D:\Telerik\High-Quality-Code\Formatting\Events\Events\bin\Debug\Events.exe.config

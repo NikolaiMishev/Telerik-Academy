@@ -1,0 +1,1 @@
+D:\Telerik\CSharp OOP\Extension-Methods-Delegates-Lambda-LINQ\Timer\bin\Debug\Timer.exe.config

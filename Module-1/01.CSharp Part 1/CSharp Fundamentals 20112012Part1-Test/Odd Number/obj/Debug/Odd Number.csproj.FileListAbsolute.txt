@@ -1,0 +1,6 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\bin\Debug\Odd Number.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\bin\Debug\Odd Number.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\bin\Debug\Odd Number.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\obj\Debug\Odd Number.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\obj\Debug\Odd Number.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\CSharp Fundamentals 20112012Part1-Test\Odd Number\obj\Debug\Odd Number.csprojResolveAssemblyReference.cache

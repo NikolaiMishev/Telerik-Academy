@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\bin\Debug\05.Workdays.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\bin\Debug\05.Workdays.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\bin\Debug\05.Workdays.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\obj\Debug\05.Workdays.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\obj\Debug\05.Workdays.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Using Classes and Objects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache

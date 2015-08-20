@@ -1,0 +1,6 @@
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\bin\01.Ticket CSS.dll.config
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\bin\01.Ticket CSS.dll
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\bin\01.Ticket CSS.pdb
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\obj\Debug\01.Ticket CSS.csprojResolveAssemblyReference.cache
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\obj\Debug\01.Ticket CSS.dll
+D:\Telerik\HTML\CSS Overview\01.Ticket CSS\obj\Debug\01.Ticket CSS.pdb

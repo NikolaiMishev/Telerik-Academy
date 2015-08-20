@@ -1,0 +1,6 @@
+D:\Telerik\CSharp OOP\Common Type System\01. Student\bin\Debug\_01.Student.exe.config
+D:\Telerik\CSharp OOP\Common Type System\01. Student\bin\Debug\_01.Student.exe
+D:\Telerik\CSharp OOP\Common Type System\01. Student\bin\Debug\_01.Student.pdb
+D:\Telerik\CSharp OOP\Common Type System\01. Student\obj\Debug\01. Student.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp OOP\Common Type System\01. Student\obj\Debug\_01.Student.exe
+D:\Telerik\CSharp OOP\Common Type System\01. Student\obj\Debug\_01.Student.pdb

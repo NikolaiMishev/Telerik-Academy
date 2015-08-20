@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate number of combinations\bin\Debug\Calculate number of combinations.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate number of combinations\bin\Debug\Calculate number of combinations.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate number of combinations\bin\Debug\Calculate number of combinations.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate number of combinations\obj\Debug\Calculate number of combinations.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Loops\Calculate number of combinations\obj\Debug\Calculate number of combinations.pdb

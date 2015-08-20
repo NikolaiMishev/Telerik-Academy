@@ -1,0 +1,6 @@
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\bin\01.Refactoring.dll.config
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\bin\01.Refactoring.dll
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\bin\01.Refactoring.pdb
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\obj\Debug\01.Refactoring.csprojResolveAssemblyReference.cache
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\obj\Debug\01.Refactoring.dll
+D:\Telerik\HTML\Semantic HTML\01.Refactoring\obj\Debug\01.Refactoring.pdb

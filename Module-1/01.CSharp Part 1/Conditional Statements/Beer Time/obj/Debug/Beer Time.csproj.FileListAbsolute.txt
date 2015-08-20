@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Conditional Statements\Beer Time\bin\Debug\Beer Time.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Conditional Statements\Beer Time\bin\Debug\Beer Time.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Conditional Statements\Beer Time\bin\Debug\Beer Time.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Conditional Statements\Beer Time\obj\Debug\Beer Time.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\Conditional Statements\Beer Time\obj\Debug\Beer Time.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\bin\03.Notebook store.dll.config
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\bin\03.Notebook store.dll
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\bin\03.Notebook store.pdb
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\obj\Debug\03.Notebook store.dll
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\obj\Debug\03.Notebook store.pdb
+D:\Telerik\HTML\HTML Forms and Frames\03.Notebook store\obj\Debug\03.Notebook store.csprojResolveAssemblyReference.cache

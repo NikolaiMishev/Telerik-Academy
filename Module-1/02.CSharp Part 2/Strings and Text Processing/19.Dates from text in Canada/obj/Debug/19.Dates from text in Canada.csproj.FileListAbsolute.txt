@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\bin\Debug\19.Dates from text in Canada.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\bin\Debug\19.Dates from text in Canada.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\bin\Debug\19.Dates from text in Canada.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\obj\Debug\19.Dates from text in Canada.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\obj\Debug\19.Dates from text in Canada.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\19.Dates from text in Canada\obj\Debug\19.Dates from text in Canada.pdb

@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\08.Maximal sum\bin\Debug\08.Maximal sum.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\08.Maximal sum\bin\Debug\08.Maximal sum.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\08.Maximal sum\bin\Debug\08.Maximal sum.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\08.Maximal sum\obj\Debug\08.Maximal sum.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Arrays\08.Maximal sum\obj\Debug\08.Maximal sum.pdb

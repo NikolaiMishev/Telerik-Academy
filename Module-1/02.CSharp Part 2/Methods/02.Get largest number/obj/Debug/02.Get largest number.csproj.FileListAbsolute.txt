@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\bin\Debug\02.Get largest number.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\bin\Debug\02.Get largest number.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\bin\Debug\02.Get largest number.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\obj\Debug\02.Get largest number.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\obj\Debug\02.Get largest number.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Methods\02.Get largest number\obj\Debug\02.Get largest number.pdb

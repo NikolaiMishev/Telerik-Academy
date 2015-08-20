@@ -1,0 +1,5 @@
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Bank Account Data\bin\Debug\Bank Account Data.exe.config
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Bank Account Data\bin\Debug\Bank Account Data.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Bank Account Data\bin\Debug\Bank Account Data.pdb
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Bank Account Data\obj\Debug\Bank Account Data.exe
+c:\users\nikolai\documents\visual studio 2013\Projects\Primitive Data Types and Variables-Hw\Bank Account Data\obj\Debug\Bank Account Data.pdb

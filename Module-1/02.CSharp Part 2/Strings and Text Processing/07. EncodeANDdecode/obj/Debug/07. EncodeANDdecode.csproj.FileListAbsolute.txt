@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\07. EncodeANDdecode\bin\Debug\_07.EncodeANDdecode.exe.config
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\07. EncodeANDdecode\bin\Debug\_07.EncodeANDdecode.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\07. EncodeANDdecode\bin\Debug\_07.EncodeANDdecode.pdb
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\07. EncodeANDdecode\obj\Debug\_07.EncodeANDdecode.exe
+C:\Users\Nikolai\Documents\Visual Studio 2013\Projects\CSharp Part 2\Strings and Text Processing\07. EncodeANDdecode\obj\Debug\_07.EncodeANDdecode.pdb
